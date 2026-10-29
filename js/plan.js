@@ -69,7 +69,7 @@ export const SUN_ELEV = 17;
 export const SUN_HEADING = [0.5, -0.866]; // (x, z)
 
 export const PROJECT = {
-  name: 'Casa Larga',
+  name: 'Sample Home Design',
   place: 'Coll de Marès, Mallorca',
   drawing: 'Ground floor plan',
   sheet: 'A-101',
